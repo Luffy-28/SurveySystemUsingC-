@@ -1,13 +1,13 @@
 # Survey System
 
 ![App Screenshot](Screenshot 2025-08-22 142429.png)
-(Screenshot 2025-08-22 142558.png)
-(Screenshot 2025-08-22 142527.png)
-(Screenshot 2025-08-22 142500.png)
-(Screenshot 2025-08-22 142625.png)
-(Screenshot 2025-08-22 142655.png)
-(Screenshot 2025-08-22 142719.png)
-(Screenshot 2025-08-22 142743.png)
+![App Screenshot](Screenshot 2025-08-22 142558.png)
+![App Screenshot](Screenshot 2025-08-22 142527.png)
+![App Screenshot](Screenshot 2025-08-22 142500.png)
+![App Screenshot](Screenshot 2025-08-22 142625.png)
+![App Screenshot](Screenshot 2025-08-22 142655.png)
+![App Screenshot](Screenshot 2025-08-22 142719.png)
+![App Screenshot](Screenshot 2025-08-22 142743.png)
 
 ## Overview
 This is a dynamic **Survey System** built with ASP.NET and SQL Server.  
